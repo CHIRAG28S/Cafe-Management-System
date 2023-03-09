@@ -8,7 +8,7 @@
 
 print("press 1 for MENU")
 user= int(input())
-c=0
+c=aa
 li=[]
 print("WELCOME TO OUR RETAURANT")
 print("THANKS FOR CHOOSING US")

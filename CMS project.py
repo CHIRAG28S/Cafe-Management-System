@@ -13,7 +13,7 @@ li=[]
 print("WELCOME TO OUR RETAURANT")
 print("THANKS FOR CHOOSING US")
 while(user<=4):
-    print("press 1 for BEVERAGES")
+    print("press 1 for BEVERAGES")  GB
     print("press 2 for MAIN COURSE")
     print("press 3 for SHAKES")
     print("press 4 for CAKES")

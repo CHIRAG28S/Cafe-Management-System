@@ -188,7 +188,7 @@ while(user<=4):
         print("YOUR BILL")
         for p in li:
             print(p)
-        print("YOUR TOTAL = ",c)
+        print("YOUR TOTAL = ",c)  VB
 
 
 # In[ ]:

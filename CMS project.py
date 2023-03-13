@@ -19,7 +19,7 @@ while(user<=4):
     print("press 4 for CAKES")
     print("press 5 for STOP ORDER")
     user= int(input())
-    if(user==1)
+    if(user==1):
         print("BEVERAGES")
         print("press 1 for TEA  50")
         print("press 2 for CAPPUCCINO  70")
